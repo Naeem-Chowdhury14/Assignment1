@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 1</title>
+</head>
+<body>
+   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident quam repellendus dolores sequi qui. Esse doloribus aperiam nostrum voluptate. Aliquid aspernatur quam, culpa illum provident sint nihil repellendus maiores aut labore ad, placeat odit possimus. Fugit error quia quae eos illum doloribus hic in nulla voluptatum magni optio praesentium, atque voluptatibus consectetur incidunt odit doloremque harum ad natus asperiores sapiente assumenda. Ab nostrum, accusantium officiis consequatur, nisi libero reiciendis quasi dolores deserunt ex aspernatur, alias esse. Tempora quaerat aliquam nesciunt harum, voluptatibus. Quia et necessitatibus eum in quos unde voluptate eius voluptatum exercitationem, itaque voluptas, facilis, iure ullam fugiat rem!</p>
+   <pre>
+   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime tempore,
+   enim asperiores quia, nostrum necessitatibus ducimus consectetur. Neque,
+   consequuntur, asperiores. Distinctio totam assumenda, corporis autem illum 
+   perspiciatis numquam rerum quaerat. Enim natus soluta quae. Adipisci perferendis eligendi,
+   commodi, minima sed dolore, vitae maiores laudantium eos ullam accusamus error inventore, aspernatur!
+   </pre>
+    <img src="bike.jpeg" width="300px"
+    height="300px" alt="Bike">
+      <form action="#">
+        <label for="">Fname:</label>
+        <input type="text"placeholder="enter ur first name"autofocous id="Fname"required><br><br>
+        <label for="#">Lname</label>
+        <input type="text"placeholder="enter ur last name"autofocous id="Lname"><br><br>
+        <label for="#">Email</label>
+        <input type="email"
+        placeholder="example@gmail.com"><br><br>
+        <label for="">password</label>
+        <input type="password"
+        placeholder="enter passaward"><br><br>
+        <label for="">phone</label>
+        <input type="text"><br><br>
+        <label for="">gender</label>
+        <input type="radio"name="gender">
+        <label for="">male</label>
+        <input type="radio""name="gender>
+        <label for="">female</label>
+        <input type="radio" name="gender">
+        <label for="">others</label><br><br>
+        <button>Submit</button>
+     </form>   
+</body>
+</html>
