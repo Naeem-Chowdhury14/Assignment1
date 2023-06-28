@@ -31,7 +31,7 @@
         <label for="">gender</label>
         <input type="radio"name="gender">
         <label for="">male</label>
-        <input type="radio""name="gender>
+        <input type="radio"name="gender">
         <label for="">female</label>
         <input type="radio" name="gender">
         <label for="">others</label><br><br>
